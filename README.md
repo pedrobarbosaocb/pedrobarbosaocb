@@ -9,7 +9,7 @@
 <br>
 
 <div>
-  <a href="https://github.com/ccarlaa">
+  <a href="https://github.com/pedrobarbosaocb">
   <img height="160em" src="https://bellomia-readme-stats.vercel.app/api?username=pedrobarbosaocb&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=pedrobarbosaocb&layout=compact&langs_count=7&theme=jolly"/>
 </div>
