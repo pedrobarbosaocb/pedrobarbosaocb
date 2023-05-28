@@ -1,10 +1,11 @@
 
 
-### Oiie, eu me chamo Pedro Barbosa 👋
+### Hey there, my name is Pedro Barbosa👋 
+> Welcome to my GitHub profile! Passionate Software Engineering student on a quest to explore the endless possibilities of coding.
 
-- 🔭 Estou cursando Engenharia de Software na UnB
-- 🌱 Adoro aprender novas coisas e me conectar com a natureza
-- ⚡ Fun fact: Comecei a aprender a tocar flauta irlandesa e amo jogar RPG
+- 🔭 Currently, I'm pursuing my bachelor's degree in Software Engineering at UnB (Universidade de Brasília). I'm actively seeking opportunities to apply my skills and expand my knowledge in the field.
+- 🌱 I'm always eager to learn new things, particularly in science, math, and programming. 
+- ⚡ Fun fact: I've recently started practicing Tim Whistle, an traditional Irish musical instrument. 
 
 <br>
 
